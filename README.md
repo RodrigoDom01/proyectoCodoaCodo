@@ -22,7 +22,7 @@ Desarrollar una pagina Web responsive con Html5, CSS3, Javascript y Bootstrap 5.
 
 
 
-`<link>` : <https://github.com/RodrigoDom01/proyectoCodoaCodo>
+`<link>` : <https://rodrigodom01.github.io/proyectoCodoaCodo/>
 
 
 
