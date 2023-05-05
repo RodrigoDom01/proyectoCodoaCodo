@@ -1,4 +1,4 @@
-### Proyecto pagina Web con HTML, CSS, JavaScript y Bootstrap:tw-1f64c:
+### Proyecto pagina Web con HTML, CSS, JavaScript y Bootstrap tw-1f64c
 
 
 Desarrollar una pagina Web responsive con Html5, CSS3, Javascript y Bootstrap 5.3. Es una pagina que presenta un evento para asisitir a conferencias de tecnologias.
