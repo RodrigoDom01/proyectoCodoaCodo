@@ -19,7 +19,7 @@ Desarrollar una pagina Web responsive con Html5, CSS3, Javascript y Bootstrap 5.
 
 
 
-###Links
+####Links
 
 
 
@@ -28,7 +28,7 @@ Desarrollar una pagina Web responsive con Html5, CSS3, Javascript y Bootstrap 5.
 
 
 
-
+Imagen del proyecto base inicial:
 
 Image:
 
@@ -37,9 +37,12 @@ Image:
 ![](https://github.com/sbsanchez21/php23084/blob/master/04_javascript/Clase3/clase/images/final_front_2021.jpg?raw=true)
 
 
-![](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png)
+
 # Editor.md
+
+![](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png)
+
 
 ```
 
-###End
+####End
