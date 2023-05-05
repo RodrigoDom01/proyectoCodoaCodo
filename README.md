@@ -1,11 +1,11 @@
-### Proyecto pagina Web con HTML, CSS, JavaScript y Bootstrap:fa-hand-o-up:
+### Proyecto pagina Web con HTML, CSS, JavaScript y Bootstrap
 
 
 Desarrollar una pagina Web responsive con Html5, CSS3, Javascript y Bootstrap 5.3. Es una pagina que presenta un evento para asisitir a conferencias de tecnologias.
 
 
 
-#### Principales caracteristicas :fa-hand-o-up:
+#### Principales caracteristicas 
 
 - Proyecto totalmente responsive a traves de Bootstrap que permite crear una interfaz web, los cuales adaptan el contenido de la web a los diferentes tipos de pantallas (diseño responsive) y mejorando, por tanto, la experiencia de usuario.
 
@@ -37,7 +37,7 @@ Image:
 ![](https://github.com/sbsanchez21/php23084/blob/master/04_javascript/Clase3/clase/images/final_front_2021.jpg?raw=true)
 
 
-:editormd-logo-2x:
+![](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png)
 # Editor.md
 
 ```
